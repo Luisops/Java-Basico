@@ -1,7 +1,7 @@
 package beans;
 
 public class Empleado {
-
+//COMENTARIO DE PRUEBA PARA SUBIR EN EL GIT
 	protected String nombre;
 	protected String apellido;
 	protected int sueldo;
